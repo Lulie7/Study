@@ -2,7 +2,7 @@
 //  main.c
 //  HelloWorld
 //
-//  Created by Lulie on 2017. 7. 3
+//  Created by Lulie on 2017. 7. 3.
 //  Copyright © 2017년 Lulie. All rights reserved.
 //
 
